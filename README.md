@@ -1,7 +1,8 @@
 Práctica TIO
 
-Integrantes: 
+Integrantes del trabajo practico:
 Alejandro revisor
-Lucas desarrollador 
+Lucas desarrollador
 Luciano desarrollador
-Mayra lider 
+Mayra lider
+
