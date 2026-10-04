@@ -1,7 +1,6 @@
 Práctica TIO
-
-Integrantes: 
 Alejandro revisor
-Lucas desarrollador 
+Lucas desarrollador
 Luciano desarrollador
-Mayra lider 
+Mayra lider
+
